@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yossef122
 - 👀 I’m interested in Mobile Developer 
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on sharing my projects
+- 💞️ I’m looking to collaborate on sharing my projects and help the community of data science and mobile developer
 - 📫 How to reach me by linkedin my name yossef helmy
 
 <!---
