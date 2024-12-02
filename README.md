@@ -2,10 +2,11 @@
 - 👀 I’m interested in Mobile Developer
 - 🏢 I'm a Flutter Developer
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on sharing my projects and help the community of data science and mobile developer
+- 💞️ I’m looking to collaborate on sharing my projects and help the community of devops and mobile developer
 - 📫 linkedin my name yossef helmy
-- 👨‍💻 As a Data Science student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a dev ops, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, Flutter, Firebase, or anything related to Mobile development.
+- 💬 or Ask me about my experience with Linux,docker,ansible, k8s or anything related to Mobile development.
 
 <!---
 yossef122/yossef122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
