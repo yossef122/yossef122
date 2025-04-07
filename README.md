@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @yossef122
-- 👀 I’m interested in Mobile Developer
+- 👀 I’m interested in Mobile Developer and devops
 - 🏢 I'm a Flutter Developer
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on sharing my projects and help the community of devops and mobile developer
 - 📫 linkedin my name yossef helmy
 - 👨‍💻 As a dev ops, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, Flutter, Firebase, or anything related to Mobile development.
-- 💬 or Ask me about my experience with Linux,docker,ansible, k8s or anything related to Mobile development.
+- 💬 or Ask me about my experience with Linux,docker,ansible, k8s or anything related to devops field.
 
 <!---
 yossef122/yossef122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
